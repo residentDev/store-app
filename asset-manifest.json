@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/store-app/static/css/main.87f89af0.css",
+    "main.js": "/store-app/static/js/main.847fe53e.js",
+    "static/js/787.ec4cc9d9.chunk.js": "/store-app/static/js/787.ec4cc9d9.chunk.js",
+    "static/media/GameNote.png": "/store-app/static/media/GameNote.98c3b4908828d6a2617c.png",
+    "index.html": "/store-app/index.html",
+    "main.87f89af0.css.map": "/store-app/static/css/main.87f89af0.css.map",
+    "main.847fe53e.js.map": "/store-app/static/js/main.847fe53e.js.map",
+    "787.ec4cc9d9.chunk.js.map": "/store-app/static/js/787.ec4cc9d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87f89af0.css",
+    "static/js/main.847fe53e.js"
+  ]
+}
